@@ -1,0 +1,100 @@
+A Product Ontology for Automotive Seat Specification
+The Effect of Tempering (Artificial Aging) on the Crashworthiness Performance of Mass-Efficient Extruded Aluminum Structures
+Topology Optimization of Multiple Parts in Dynamic Controlled Systems
+Model Development Under Uncertainty via Conjoint Analysis
+A Grammar-Based Approach to Sheet Metal Design
+Optimal Tolerance Allocation of Automotive Pneumatic Control Valves Based on Product and Process Simulations
+DRed and Design Folders: A Way of Capturing Storing and Passing On Knowledge Generated During Design Projects
+Design Configuration of Vehicle With Domain Knowledge Enhancement
+A Comparative Study of Optimal Design for an Inkjet Printer Tube With and Without Performance Variations
+Type Synthesis of Three-DOF Translational Parallel Mechanisms
+Optimization of Honeycomb Cellular Meso-Structures for High Speed Impact Energy Absorption
+Incorporating Epistemic Uncertainty in Robust Design
+The Risk in Early Design (RED) Method: Likelihood and Consequence Formulations
+Product-Service Systems Design With Business Model Strategy Integrated: A Case Study of Urban Umbrella Rental Service System
+Developing Innovative Energy Harvesting Approaches for Infrastructure Health Monitoring Systems
+A Game-Theoretic Approach to Finding Market Equilibria for Automotive Design Under Environmental Regulation
+Using Q-Learning and Genetic Algorithms to Improve the Efficiency of Weight Adjustments for Optimal Control and Design Problems
+Support Vector Regression Modeling for Design and Analysis of Mechanical Snubbing
+An Extended Hierarchical Statistical Sensitivity Analysis Method for Multilevel Systems With Shared Variables
+Fastener Pattern Optimization of an Eccentrically Loaded Multi-Fastener Connection
+Topological Synthesis of Shell Structures
+Recent Advancements in Product Family Design and Platform-Based Product Development: A Literature Review
+Meta-Material Design of the Shear Layer of a Non-Pneumatic Wheel Using Topology Optimization
+Identifying Variable Effects on the Dimensional Quality of Compliant Assembly Using Computer Experiments
+Quantifying Model Uncertainty Using Measurement Uncertainty Standards
+A Variable-Size Local Domain Approach for Concurrent Design Optimization and Model Validation Using Parametric Bootstrap
+Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation
+Computational Geometric Modeling and Unfolding of 3-D Folded Structures
+Shape Knowledge Indexing Using Invariant Shape Code
+A Process Model and Data Mining to Support Designing Families of Services
+Robust Truck Cabin Layout Optimization Using Advanced Driver Variance Models
+A Framework for Designing Balanced Product Platforms by Estimating Versatility of Components
+An Ensemble Approach for Robust Data-Driven Prognostics
+Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization
+Design for Project Change Management: Part 1 -- Configuration Design
+Development of Process Optimization for an Intelligent Knowledge-Based System for Spur Gear Precision Forging Die Design
+Automated Design Synthesis for Micro-Electro-Mechanical Systems (MEMS)
+A Method for Inferring Design Rules With Explicit Bounds of Applicability
+Decomposition of System Level Reliability-Based Design Optimization to Reduce the Number of Simulations
+Defining Technology-Adoption Indifference Curves for Residential Solar Electricity Generation Using Stated Preference Experiments
+Optimal Camera Path Planning for the Inspection of Printed Circuit Boards Using a Two Stepped Optimization Approach
+Design Optimization of Continuous Caster Refractory Components
+Probabilistic Design Optimization of Frequency Dispersion for Rotating Blades
+A Genetic Algorithm Approach for Technology Characterization
+Pattern-Based Reasoning in Critical Parameter Management (CPM) for Rapid Redesign
+Structural Topology Optimization Using Frame Elements Based on the Complementary Strain Energy Concept for Eigen-Frequency Maximization
+Module Interface Representation
+Improving Confidence in Simulation-Based Design Through Error Functions
+Understanding the Effects of Model Uncertainty in Robust Design With Computer Experiments
+Improving Identifiability in Model Calibration Using Multiple Responses
+Multi-Objective Configuration Optimization With Vehicle Dynamics Applied to Midsize Truck Design
+A Mesh Feature Paradigm for Rapid Generation of CAE-Based Design of Experiments Data
+Research on Mechanism Model of Fixture Location Errors Analysis
+Finite Element Analysis Applied to Ergonomic Design of 2-Piece Aluminum Beverage Cans and Bottles
+Optimization of a Semi-Active Shock Absorber for Aircraft Landing Gear
+On Adaptive Sampling for Single and Multi-Response Bayesian Surrogate Models
+Automated Concept Generation Using Branched Functional Models
+Predicting the Thermal Performance for the Multi-Objective Vehicle Underhood Packing Optimization Problem
+Combining Case Based Reasoning and Shape Matching Based on Clearance Analyzes to Support the Reuse of Components
+Mass Customization: A Review of the Paradigm Across Marketing; Engineering and Distribution Domains
+A New Sparse Grid Based Method for Uncertainty Propagation
+Adapted Concept Generation and Computational Techniques for the Application of a Transformer Design Theory
+PDE-Driven Level Sets and Shape Sensitivity for Structural Topology Optimization
+Analytical Target Setting: An Enterprise Context in Optimal Product Design
+Topology and Dimensional Synthesis of Linkage Mechanism Based on the Constrained Superposition Method
+On the Entropy of Multi-Objective Design Optimization Solution Sets
+A Study on Immune Algorithms Considering Interaction of Design With Environment Properties
+Filleting and Rounding Using a Point-Based Method
+A Hybrid Method for Parametric Conceptual Vehicle Design Using Legacy Components and Parametric Surfaces
+Fast Layered Manufacturing Support Volume Computation on GPUs
+Dynamic Project Navigation: Modelling- Improving and Review of Engineering Processes
+Sequential Sampling With Kernel-Based Bayesian Network Classifiers
+Adjoint Design Sensitivity Analysis of Fracture Mechanics Using Molecular-Continuum Multiscale Approach
+Loci Surface Guided Crystal Phase Transition Pathway Search
+Integrated Optimization for Supporting Functional and Layout Designs During Conceptual Design Phase
+Towards a Conceptual Design Explorer Using Metamodeling Approaches and Constraint Programming
+Methods for Evaluating Suitability of Econometric Demand Models in Design for Market Systems
+Turning Black-Box Into White Functions
+An Indicator Response Surface-Based Monte Carlo Method for Efficient Component and System Reliability Analysis
+Spiral-Like Path Planning Without Gap for Material Deposition Processes
+Topology Optimization of Spacers for Maximizing Permeate Flux on Membrane Surface in Reverse Osmosis Channel
+Designing Design Processes for Integrated Materials and Products Realization: A Multifunctional Energetic Structural Material Example
+A Variable Fidelity Model Management Framework for Multiscale Computational Design of Continuous Fiber SiC-Si3N4 Ceramic Composites
+On the Impact of Coupling Strength on Complex System Optimization for Single-Level Formulations
+Protocol-Based Multi-Agent Systems: Examining the Effect of Diversity Dynamism and Cooperation in Heuristic Optimization Approaches
+Development of Validation Metrics for Vehicle Frontal Impact Simulation
+On Electrochemical Deposition for Layered Manufacturing
+Improving Multi-Response Metamodels With Upper/Lower Bound Information Using Multi-Stage Non-Stationary Covariance Functions
+Validation of Computational Fluid Structure Interaction Models for Shape Optimization Under Blast Impact
+A System Approach to Simulation-Based Design Under Uncertainty: Through Best in Class Simulation Process Integration and Design Optimization
+Introducing Rough Set for Design Space Exploration and Optimization
+Compliant Mechanism Design Using a Strain Based Topology Optimization Method
+Analysis and Design of an In-Pipe System for Water Leak Detection
+An Approach to Support the Implementation of Product Configuration Tools
+Development of a Robust Design Process Using a New Robustness Index
+Assessing and Increasing Product and Family Differentiation in the Market
+Are We There Yet? Investigating the Role of Design Process Architecture in Convergence Time
+Parametric Solid Modeling
+A Multiscale Design Methodology for Designing Hierarchical Multiscale Systems Considering Random Field Uncertainty
+Reliability-Based Design Optimization Using Enhanced Dimension Reduction Method With Variable Sampling Points
